@@ -1,2 +1,0 @@
-# SYMBOLS
- symbols file
