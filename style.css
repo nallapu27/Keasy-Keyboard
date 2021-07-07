@@ -1,0 +1,96 @@
+.background{
+    background-color:#eddbf4 ;
+    height: 100vh;
+    width: 100vw;
+    margin-top: none;
+  }
+
+ 
+
+.button
+{
+  height: 200px;
+  width:200px;
+}
+
+.key {
+    height:200px;
+    width:200px;
+  }
+.h1{
+    text-align: center;
+    margin-top: 0%;
+    padding: 0%;
+  }
+
+
+.arrow{
+  position: absolute;
+  left: 20px;
+}
+
+.place{
+  position:absolute;
+  left:20px;
+}
+
+.one{
+   position: absolute;
+   left: 40px;
+ }
+
+ .PEOPLE{
+  position:absolute;
+  left:20px;
+}
+
+.numbers{
+  padding: 20px;
+}
+
+.describe{
+  position:absolute;
+  left:20px;
+}
+
+.feeling{
+  position:absolute;
+  left:20px;
+}
+ 
+.food{
+  position:absolute;
+  left:20px;
+}
+
+.TIME{
+  position:absolute;
+  left:20px;
+}
+
+.color{
+  position:absolute;
+  left:20px;
+}
+
+.CLOTHING{
+  position:absolute;
+  left:20px;
+}
+
+.chat{
+  position:absolute;
+  left:20px;
+}
+
+.BODY{
+  position:absolute;
+  left:20px;
+}
+
+.activity{
+  position:absolute;
+  left:20px;
+}
+
+
